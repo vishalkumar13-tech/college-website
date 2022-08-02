@@ -62,12 +62,11 @@ b)Update profile page:From here student can update his information such as profi
 c)Academic section has three pages stored in dropdown menu:<br>
     A)Test Performance page:This page will contain the result of student for various subjects.<br/>
     ![student can see test performance in academics test performance tab](https://user-images.githubusercontent.com/71025467/182331474-43b328fa-6fc7-43b1-8e0e-b1e87b13c7b7.png)<br/>
-
     B)Attendance page: Here student can see his attendence,attendence percentage for in various subjects.<br/>
     ![students can see their attendance in academic attendance tab](https://user-images.githubusercontent.com/71025467/182331579-9a06446f-5403-42da-8b4e-fc760159ac7f.png)<br/>
     C)Get all subjects page: Here student can his all the subjects in his curriculam.<br/>
     ![students can see subjects in their curriculam](https://user-images.githubusercontent.com/71025467/182331864-976369ea-68b8-42ff-a77e-720accad6dc6.png)<br/>
-d)Update password page:From here students can update their password ,by default it is set to date of birth.<./br>
+d)Update password page:From here students can update their password ,by default it is set to date of birth.<br/>
 ![student can update their password](https://user-images.githubusercontent.com/71025467/182332258-4f0325d3-ce7a-469b-bb3d-36441752c5c0.png)<br/>
 
 10).In this project we are using mongodb database.<br/>
