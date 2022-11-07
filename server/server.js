@@ -77,7 +77,10 @@ app.use((error, req, res, next) => {
 })
 
 const PORT = process.env.PORT || 5000;
-
+//step heroku
+if(process.env.NODE_ENV == "production"){
+    server.use(express.static("client/build"));
+}
 
 server.listen(PORT, async () => {
     try {
